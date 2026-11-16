@@ -4,6 +4,10 @@ Sou profissional de Operações e estudo Análise e Desenvolvimento de Sistemas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Hugo-0A66C2?style=flat-square)](https://www.linkedin.com/in/victtorhmcarvalho)
 
+## Linguagens aplicadas
+
+![SQL: dois projetos em MySQL, com criação de tabelas e consultas JOIN. Power Query M: transformação e manutenção de consultas do Excel conectadas ao SharePoint na UNISA.](assets/linguagens.svg)
+
 ## Tecnologias
 
 ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
