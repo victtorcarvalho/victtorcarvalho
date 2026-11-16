@@ -2,7 +2,7 @@
 
 Profissional de Operações e estudo Análise e Desenvolvimento de Sistemas.
 
-<a href="https://www.linkedin.com/in/victtorhmcarvalho"><img src="assets/linkedin.png" alt="LinkedIn de Victor Hugo" width="36"></a>
+<a href="https://www.linkedin.com/in/victtorhmcarvalho"><img src="assets/linkedin.png" alt="LinkedIn de Victor Hugo" width="48"></a>
 
 ## Linguagens aplicadas
 
