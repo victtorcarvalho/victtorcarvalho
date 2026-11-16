@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens aplicadas</title>
+  <desc id="desc">SQL em dois projetos publicados e Power Query M em consultas do Excel e SharePoint na UNISA.</desc>
+  <rect x="1" y="1" width="898" height="242" rx="19" fill="#101b2e" stroke="#355064" stroke-width="2"/>
+  <path d="M28 34h25" stroke="#5eead4" stroke-width="3" stroke-linecap="round"/>
+  <text x="65" y="42" fill="#b7cbdc" font-family="system-ui,sans-serif" font-size="21" font-weight="650">Experiência prática</text>
+  <rect x="25" y="63" width="417" height="155" rx="13" fill="#14243b" stroke="#355064"/>
+  <rect x="458" y="63" width="417" height="155" rx="13" fill="#14243b" stroke="#355064"/>
+  <g font-family="system-ui,sans-serif">
+    <path d="M53 98c0-5 9-9 20-9s20 4 20 9v24c0 5-9 9-20 9s-20-4-20-9zm0 0c0 5 9 9 20 9s20-4 20-9m-40 12c0 5 9 9 20 9s20-4 20-9" fill="none" stroke="#5eead4" stroke-width="2.5"/>
+    <text x="111" y="118" fill="#f1f5f9" font-size="32" font-weight="700">SQL</text>
+    <text x="53" y="162" fill="#d1e0ed" font-size="23">2 projetos publicados em MySQL</text>
+    <text x="53" y="195" fill="#a8c1d3" font-size="20">Criação de tabelas e consultas JOIN</text>
+    <path d="M486 92h40l-15 17v14l-10 6v-20z" fill="none" stroke="#5eead4" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="544" y="118" fill="#f1f5f9" font-size="32" font-weight="700">Power Query M</text>
+    <text x="486" y="162" fill="#d1e0ed" font-size="23">Aplicação profissional na UNISA</text>
+    <text x="486" y="195" fill="#a8c1d3" font-size="20">Consultas no Excel e SharePoint</text>
+  </g>
+</svg>
