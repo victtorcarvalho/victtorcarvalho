@@ -2,7 +2,7 @@
 
 Profissional de Operações e estudo Análise e Desenvolvimento de Sistemas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Hugo-0A66C2?style=flat-square)](https://www.linkedin.com/in/victtorhmcarvalho)
+<a href="https://www.linkedin.com/in/victtorhmcarvalho"><img src="assets/linkedin.png" alt="LinkedIn de Victor Hugo" width="36"></a>
 
 ## Linguagens aplicadas
 
